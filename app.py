@@ -1,3 +1,3 @@
 a = 'Hello'
 b = 'World'
-print(a)
+print(a, b)
